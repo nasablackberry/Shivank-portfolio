@@ -34,3 +34,17 @@
   opacity: 90%;
   font-size: 18px;
 }
+.imgg img {
+  border: 1px solid rgba(255, 255, 255, 0.162);
+  border-radius: 50%;
+}
+.navbar-hero{
+  width: max-content;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar .icon-link{
+}
