@@ -11,8 +11,8 @@ function App() {
   return (
     <div className="container-fluid">
       <div className="heroSection">
-        <div className="mb-3 img-name">
-          <div className="imgg me-4">
+        <div className="img-name">
+          <div className="imgg">
             <img width="80" src="src\assets\profile-image.png" alt="bjsdb" />
           </div>
           <div className="name-dev">
@@ -21,11 +21,9 @@ function App() {
           </div>
         </div>
         <div className="img-name-body">
-          Welcome to my digital garden where I share what I'm learning
-          <br />
-          about shipping great products, becoming a better developer and
-          <br />
-          growing a carrer in tech.
+          Welcome to my digital garden where I share what I'm learning about
+          shipping great products, becoming a better developer and growing a
+          carrer in tech.
         </div>
       </div>
       <div className="navbar-hero">
