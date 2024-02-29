@@ -1,5 +1,6 @@
 import { useState } from "react";
 import reactLogo from "./assets/react.svg";
+import bgimage from "./assets/bg.jpg";
 import ContactInfo from "./Contactinfo";
 import "./App.css";
 
@@ -20,9 +21,7 @@ function App() {
           </div>
           <div className="img-name-body">
             Welcome to my digital garden where I share what I'm learning 
-            <br/>
             about shipping great products, becoming a better developer and
-            <br/>
             growing a carrer in tech.
           </div>
         </div>
